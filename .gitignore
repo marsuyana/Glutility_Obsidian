@@ -1,6 +1,22 @@
+# macOS
 .DS_Store
-.Trashes
+
+# Obsidian cache
+.obsidian/cache/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/cache/
-.obsidian/plugins/*/data.json
+
+# Trash / temp
+.trash/
+*.tmp
+
+# Logs
+*.log
+
+# Node / dev files if ever added
+node_modules/
+dist/
+.env
+
+# System clutter
+Thumbs.db
