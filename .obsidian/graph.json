@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#disease",
+      "color": {
+        "a": 1,
+        "rgb": 15028946
+      }
+    },
+    {
+      "query": "tag:#biomarker",
+      "color": {
+        "a": 1,
+        "rgb": 13950538
+      }
+    },
+    {
+      "query": "tag:#protein",
+      "color": {
+        "a": 1,
+        "rgb": 4916613
+      }
+    },
+    {
+      "query": "tag:#genes",
+      "color": {
+        "a": 1,
+        "rgb": 13144089
+      }
+    },
+    {
+      "query": "tag:#process",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "tag:#anatomy",
+      "color": {
+        "a": 1,
+        "rgb": 556315
+      }
+    },
+    {
+      "query": "tag:#pathology",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:00_SYSTEM  ",
+      "color": {
+        "a": 1,
+        "rgb": 1317207
+      }
+    },
+    {
+      "query": "path:01_PRODUCT",
+      "color": {
+        "a": 1,
+        "rgb": 472592
+      }
+    },
+    {
+      "query": "path:02_DATA",
+      "color": {
+        "a": 1,
+        "rgb": 5363399
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6034414826143588,
+  "close": true
+}
