@@ -20,3 +20,8 @@ dist/
 
 # System clutter
 Thumbs.db
+
+
+
+# Ignore Smart Environment folder
+.smart-env
