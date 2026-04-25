@@ -84,3 +84,93 @@ Konjac is a useful example of:
 - [[Cross Contamination]]
 - [[Scanner Classification System]]
 - [[Gluten Free Products]]
+---
+tags:
+  - #food
+  - #glutenfree
+  - #ingredient
+  - #scanner
+aliases:
+  - Konjac
+  - Shirataki
+  - Konnyaku
+---
+
+## Konjac
+
+Konjac is a plant-derived ingredient made from the root of *Amorphophallus konjac*. It is commonly used for noodles, rice substitutes, jelly products, and fibre supplements.
+
+## Gluten Status
+
+### Naturally Gluten Free
+
+Plain konjac is naturally gluten free because it is not derived from wheat, barley, or rye.
+
+### Safe Classification
+
+- [[CERTIFIED_FREE]] → Certified gluten free product
+- [[NO_GLUTEN_DETECTED]] → Plain konjac with safe ingredients
+- [[CROSS_CONTAMINATION_RISK]] → Shared facility / unclear processing
+- [[CONTAINS_GLUTEN]] → Added wheat ingredients or unsafe sauce sachets
+
+## Where To Buy
+
+### Vienna / Austria
+
+Common places:
+
+- BILLA / BILLA Plus
+- Spar / Interspar
+- dm
+- Müller
+- Asian supermarkets
+- Organic / health shops
+- Online retailers
+
+## Common Product Types
+
+- Shirataki noodles
+- Konjac rice
+- Konjac jelly
+- Glucomannan powder
+- Konjac flour
+
+## Risk Factors
+
+Always check labels for:
+
+- Wheat starch
+- Barley malt
+- Soy sauce containing wheat
+- Flavour sachets
+- Shared manufacturing warnings
+- Unclear imported labelling
+
+## Preparation Notes
+
+Texture differs from pasta or rice.
+
+Best results:
+
+1. Rinse thoroughly  
+2. Dry fry in pan  
+3. Add sauce / seasoning
+
+## Scanner Logic Relevance
+
+Useful example for Glutility because:
+
+- naturally gluten free ingredient
+- packaged product may still be risky
+- ingredient vs product distinction matters
+- strong barcode scan training case
+
+## Related Notes
+
+- [[Gluten]]
+- [[Ingredient Risk Engine]]
+- [[Cross Contamination]]
+- [[Scanner Classification System]]
+- [[Gluten Free Products]] 
+
+So, where is the ideal option for putting this, core concepts or something else?
